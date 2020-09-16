@@ -1,6 +1,6 @@
 # Sales Tax Problem
 
-The application manages s ystem for inserting products and related receipts
+The application manages a system for inserting products and print the related receipts
 
 ## Usage
 To execute it Maven tool is required. 
